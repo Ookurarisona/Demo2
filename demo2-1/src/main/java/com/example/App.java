@@ -15,6 +15,7 @@ public class App {
         System.out.println("dev Hello World!");
         System.out.println("master Hello World!");
         System.out.println("master Hello World!");
+        System.out.println("ssh Hello World!");
 
     }
 
